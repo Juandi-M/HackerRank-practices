@@ -6,7 +6,7 @@ namespace Palindrome
     {
         static void Main(string[] args)
         {
-            string word = "i did did i";
+            string word = "doggy";
             string wordReversed;
 
             char[] wordCh = word.ToCharArray();
